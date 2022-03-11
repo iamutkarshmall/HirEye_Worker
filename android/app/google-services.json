@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571490461068",
+    "project_id": "hexclan-d72db",
+    "storage_bucket": "hexclan-d72db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571490461068:android:f3e036af288ae1945062a9",
+        "android_client_info": {
+          "package_name": "com.utkarshmall.hexclanuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571490461068-a7r1d9acqnag7fvfp3ct95fcijq7r6fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC007cjwp1RPneE6k_iX8nGkL_7rPPEcis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571490461068-a7r1d9acqnag7fvfp3ct95fcijq7r6fd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
